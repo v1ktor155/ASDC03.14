@@ -1,0 +1,50 @@
+Milk, Pasteurized milk, 399, 20, liter, 1
+Bread, Rye bread, 199, 30, unit, 2
+Butter, Cream butter, 549, 15, kilogram, 3
+Apples, Gala apples, 249, 50, kilogram, 1
+Potatoes, Young potatoes, 129, 100, kilogram, 2
+Milk, Milk 2.5%, 299, 25, liter, 3
+Bread, White bread, 149, 40, unit, 1
+Oil, Vegetable oil, 299, 20, liter, 2
+Apples, Fuji apples, 349, 40, kilogram, 3
+Potatoes, Table potatoes, 099, 200, kilogram, 1
+Milk, Goat milk, 499, 10, liter, 2
+Bread, Bread with seeds, 249, 35, unit, 3
+Oil, Sunflower oil, 199, 30, liter, 89013
+Apples, Granny Smith apples, 399, 30, kilogram, 45679
+Potatoes, Granulated potatoes, 199, 100, kilogram, 23458
+Milk, Milk cow, 349, 20, liter, 56790
+Bread, Sourdough bread, 299, 25, unit, 12347
+Oil, Olive oil, 699, 10, liter, 89014
+Apples, Pink  apples, 449, 25, kilogram, 56791
+Potatoes, Sweet potatoes, 249, 50, kilogram, 23459
+Milk, Almond milk, 399, 15, liter, 78902
+Bread, Gluten-free bread, 499, 20, unit, 34569
+Oil, Coconut oil, 799, 5, liter, 12348
+Apples, Honeycrisp apples, 499, 20, kilogram, 45680
+Potatoes, Mashed potatoes, 399, 50, kilogram, 23460
+Milk, Hemp milk, 599, 10, liter, 78903
+Bread, Pumpernickel bread, 299, 30, unit, 34570
+Oil, Sesame oil, 399, 15, liter, 89015
+Apples, Red Delicious apples, 299, 35, kilogram, 56792
+Potatoes, Red potatoes, 199, 100, kilogram, 23461
+Milk, Coconut milk, 249, 25, liter, 78904
+Bread, Brioche bread, 349, 20, unit, 34571
+Oil, Avocado oil, 899, 5, liter, 12349
+Apples, Cortland apples, 399, 30, kilogram, 45681
+Potatoes, Fingerling potatoes, 499, 20, kilogram, 23462
+Milk, Oat milk, 449, 15, liter, 78905
+Bread, Ciabatta bread, 299, 25, unit, 34572
+Oil, Canola oil, 149, 50, liter, 89016
+Apples, Golden Delicious apples, 299, 35, kilogram, 56793
+Potatoes, Yukon Gold potatoes, 399, 40, kilogram, 23463
+Milk, Rice milk, 399, 20, liter, 78906
+Bread, Baguette, 199, 30, unit, 34573
+Oil, Flaxseed oil, 599, 10, liter, 12350
+Apples, Jonagold apples, 349, 25, kilogram, 45682
+Potatoes, New potatoes, 249, 50, kilogram, 23464
+Milk, Soy milk, 299, 25, liter, 78907
+Bread, Rolls, 99, 50, unit, 34574
+Oil, Peanut oil, 499, 15, liter, 89017
+Apples, Braeburn apples, 449, 20, kilogram, 56794
+Potatoes, Russet potatoes, 199, 100, kilogram, 23465
